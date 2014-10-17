@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nam:home|Door43 (nam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nam|d43-nam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nam/archive/master.zip|d43-nam.zip]]
+
+**Recent Changes**
+{{changes>ns = nam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nam|Ethnologue data]]
+
